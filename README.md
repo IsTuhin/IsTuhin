@@ -18,3 +18,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=istuhin&show_icons=true&locale=en" alt="istuhin" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=istuhin&" alt="istuhin" /></p>
+[![An image of @istuhin's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/istuhin)](https://holopin.io/@istuhin)
