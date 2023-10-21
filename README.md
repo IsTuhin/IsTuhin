@@ -1,7 +1,8 @@
+<div align="center" >
+<img  alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+</div>
 <h1 align="center">Hi , I'm Touhidur Rahman</h1>
 <h3 align="center">A lovestruck software engineer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=istuhin&label=Profile%20views&color=0e75b6&style=flat" alt="istuhin" /> </p>
 
 - 🌱 I’m currently learning **web automation**
 
@@ -10,9 +11,6 @@
 
 
 - 💬 How to reach me **tr405572@gmail.com**
-
-
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 
 
@@ -44,8 +42,8 @@
 
 
 ![istuhin's Stats](https://github-readme-stats.vercel.app/api?username=istuhin&theme=highcontrast&show_icons=true&hide_border=false&count_private=true)
-![istuhin's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=istuhin&theme=highcontrast&show_icons=true&hide_border=false&layout=compact)
 ![istuhin's Streak](https://github-readme-streak-stats.herokuapp.com/?user=istuhin&theme=highcontrast&hide_border=false)
+![istuhin's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=istuhin&theme=highcontrast&show_icons=true&hide_border=false&layout=compact)
 
 
 
