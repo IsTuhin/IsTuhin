@@ -37,9 +37,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=istuhin&show_icons=true&theme=highcontrast)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=istuhin&" alt="istuhin" /></p>
-
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=istuhin&theme=dark-smoky)](https://git.io/streak-stats)
 
 
 
