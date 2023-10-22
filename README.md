@@ -23,6 +23,9 @@
 </p>
 
 
+[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tr405572@gmail.com)](mailto:tr405572@gmail.com)
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 
