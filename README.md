@@ -11,12 +11,9 @@
 -🦇 If you're a night owl, you might enjoy the quiet and solitude of the nighttime, which can be a great time for focused work or creative pursuits. 
 
 
-- 💬 How to reach me **tr405572@gmail.com**
 
 
-
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">💬Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/istuhin21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="istuhin21" height="30" width="40" /></a>
 <a href="https://instagram.com/istuhin21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="istuhin21" height="30" width="40" /></a>
