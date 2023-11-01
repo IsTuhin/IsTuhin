@@ -13,7 +13,6 @@
 
 - 🌱 I’m currently learning web automation.  
   
-
 - ⚡ Fun fact: I use tabs over spaces  
   
 
