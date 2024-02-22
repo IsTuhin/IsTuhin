@@ -1,5 +1,5 @@
 <div align="center" >
-<img alt="Coder GIF"  src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif" />
+<img alt="Coder GIF" height=350 width=500 src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif" />
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=istuhin&label=Profile%20views&color=0e75b6&style=flat" alt="istuhin" /> </p> </div>
 
