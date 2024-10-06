@@ -4,7 +4,7 @@
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=istuhin&label=Profile%20views&color=0e75b6&style=flat" alt="istuhin" /> </p> </div>
 
 
-## ***<div align="center">🧑‍💻 I'm Touhidur Rahman, a full-time lovestruck software engineer.</div>***  
+## ***<div align="center">🧑‍💻 I'm Touhidur Rahman, a full-time lovestruck software developer .</div>***  
 
 
 - **<ins>🔭 I’m currently working on Flutter</ins>**  
