@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning web automation.  
   
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Fun fact: I am not funny  
   
 🦇 If you're a night owl, you might enjoy the quiet and solitude of the nighttime, which can be a great time for focused work or creative pursuits. 
   
