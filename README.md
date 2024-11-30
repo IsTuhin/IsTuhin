@@ -26,13 +26,8 @@
 
 <br/>  
 
-<div align="center">
-            <a href="https://www.buymeacoffee.com/istuhin" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
+<a href="https://www.buymeacoffee.com/tr405572j"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=tr405572j&button_colour=FFDD00&font_colour=000000&font_family=Bree&outline_colour=000000&coffee_colour=ffffff" /></a>
+
 
 ### Connect with me  
 
